@@ -325,7 +325,9 @@ st.sidebar.markdown("""
         <ul>
             <li>Add, update, or delete institutes</li>
             <li>Manage class sections</li>
-            <li>Assign teachers</li>
+            <li>Update intitute records</li>
+            <li>Mangement of accounts</li>
+            <li>Visualize the updated reports</li>
             <li>Store and retrieve data securely</li>
         </ul>
         <p style="margin-top:8px;"><em>Tip:</em> Register all institutes first before assigning sections.</p>
